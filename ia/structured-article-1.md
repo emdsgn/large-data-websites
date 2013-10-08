@@ -1,0 +1,17 @@
+---
+
+**Title:** Characteristics<br>
+**Author:** Mansura Chowdhury<br>
+**Date:** 2013-17-09<br>
+**Categories:** tigers, characteristics
+
+---
+
+Tigers have muscular bodies with particularly powerful forelimbs and large heads. The pelage coloration varies between shades of orange or brown with white ventral areas and distinctive black stripes. Their faces have long whiskers, which are especially long in males. The pupils are circular with yellow irises. The small, rounded ears have black markings on the back, surrounding a white spot. These spots, called ocelli, play an important role in intraspecific communication.
+
+The pattern of stripes is unique to each animal, and these unique markings can be used by researchers to identify individuals (both in the wild and captivity), in much the same way as fingerprints are used to identify humans. The function of stripes is likely camouflage, serving to help tigers conceal themselves amongst the dappled shadows and long grass of their environments as they stalk their prey. The stripe pattern is also found on the skin of the tiger. If a tiger were to be shaved, its distinctive camouflage pattern would be preserved.
+
+Tigers are the most variable in size of all big cats, even more so than leopards and much more so than lions. The Bengal, Caspian and Siberian tiger subspecies represent the largest living felids, and rank among the biggest felids that ever existed. An average adult male tiger from Northern India or Siberia outweighs an average adult male lion by around 45.5 kg (100 lb). Females vary in length from 200 to 275 cm (79 to 108 in), weigh 65 to 167 kg (140 to 370 lb) with a greatest length of skull ranging from 268 to 318 mm (10.6 to 12.5 in). Males vary in size from 250 to 390 cm (98 to 150 in), weigh 90 to 306 kg (200 to 670 lb) with a greatest length of skull ranging from 316 to 383 mm (12.4 to 15.1 in). Body size of different populations seems to be correlated with climate—Bergmann's rule—and can be explained by thermoregulation. Large male Siberian tigers can reach a total length of more than 3.5 m (11.5 ft) "over curves", 3.3 m (10.8 ft) "between pegs" and a weight of 306 kg (670 lb). This is considerably larger than the size reached by the smallest living tiger subspecies, the Sumatran tiger, which reaches a body weight of 75 to 140 kg (170 to 310 lb). Of the total length of a tiger, the tail comprises 0.6 to 1.1 m (2.0 to 3.6 ft). At the shoulder, tigers may variously stand 0.7 to 1.22 m (2.3 to 4.0 ft) tall. The current record weight, per the Guinness Book of World Records, for a wild tiger was 389 kg (860 lb) for a Bengal tiger shot in 1967, though its weight may have been boosted because it had eaten a water buffalo the previous night.
+
+Tigresses are smaller than the males in each subspecies, although the size difference between male and female tigers tends to be more pronounced in the larger tiger subspecies, with males weighing up to 1.7 times more than the females. In addition, male tigers have wider forepaw pads than females. Biologists use this difference in tracks to determine gender. The skull of the tiger is very similar to that of the lion, though the frontal region is usually not as depressed or flattened, with a slightly longer postorbital region. The skull of a lion has broader nasal openings. However, due to the amount of skull variation in the two species, usually, only the structure of the lower jaw can be used as a reliable indicator of species.
+
