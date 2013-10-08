@@ -1,0 +1,17 @@
+Unique ID,Title,Category,Source,Owner,Status,URL
+1,What are Tigers,Loading page,http://en.wikipedia.org/wiki/Tiger,Mansura,Editing,www.large-data-website.io/tigers
+2,Informational Statistics,tigers in the wild,http://www.defenders.org/tiger/basic-facts,Mansura,Editing,www.large-data-website.io/tigers/tigers-in-the-wild
+3,Charateristics,about tigers,http://en.wikipedia.org/wiki/Tiger,Mansura,Editing,www.large-data-website.io/about
+4,Facts about Tigers,tigers in the wild,http://kids.nationalgeographic.com/kids/animals/creaturefeature/tiger/,Mansura,Editing,www.large-data-website.io/tigers/tigers-in-the-wild
+5,Types of Tigers,species,http://www.tigers-world.com/types-of-tigers.html,Mansura,Editing,www.large-data-website.io/species
+6,Extinct Subspecies,species,http://en.wikipedia.org/wiki/Tiger#Extinct_subspecies,Mansura,Editing,www.large-data-website.io/species
+7,Hunting Habits,about tigers,http://www.lions.org/tiger-hunting.html,Mansura,Editing,www.large-data-website.io/about
+8,Life and behaviours,about tigers,http://wwf.panda.org/what_we_do/endangered_species/tigers/about_tigers/breeding_family/,Mansura,Editing,www.large-data-website.io/about
+9,Reproduction,about tigers,http://en.wikipedia.org/wiki/Tiger#Reproduction,Mansura,Editing,www.large-data-website.io/about
+10,Hybrid,species,http://en.wikipedia.org/wiki/Tiger#Reproduction,Mansura,Editing,www.large-data-website.io/species
+11,Color Variations,species,http://en.wikipedia.org/wiki/Tiger#Reproduction,Mansura,Editing,www.large-data-website.io/species
+12,Threats,tigers and humans,http://www.arkive.org/tiger/panthera-tigris/,Mansura,Editing,www.large-data-website.io/tigerandhuman
+13,Conservation Efforts,tigers and humans,http://www.arkive.org/tiger/panthera-tigris/,Mansura,Editing,www.large-data-website.io/tigersandhuman
+14,Relation With Humans,tigers and humans,http://en.wikipedia.org/wiki/Tiger#Reproduction,Mansura,Editing,www.large-data-website.io/tigersandhumans
+15,Culture Dipictions,tigers and humans,http://en.wikipedia.org/wiki/Tiger#Reproduction,Mansura,Editing,www.large-data-website.io/tigersandhuman
+,,,,,,
